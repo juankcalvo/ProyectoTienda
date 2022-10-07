@@ -8,37 +8,37 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = TIENDA_DEPORTIVA
 build_property.RootNamespace = TIENDA_DEPORTIVA
-build_property.ProjectDir = D:\RpositorioU\TIENDA-DEPORTIVA\TIENDA-DEPORTIVA\
+build_property.ProjectDir = D:\RepocitorioClonados\ProyectoTienda\TIENDA-DEPORTIVA\TIENDA-DEPORTIVA\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\RpositorioU\TIENDA-DEPORTIVA\TIENDA-DEPORTIVA
+build_property.MSBuildProjectDirectory = D:\RepocitorioClonados\ProyectoTienda\TIENDA-DEPORTIVA\TIENDA-DEPORTIVA
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/RpositorioU/TIENDA-DEPORTIVA/TIENDA-DEPORTIVA/Views/Home/Index.cshtml]
+[D:/RepocitorioClonados/ProyectoTienda/TIENDA-DEPORTIVA/TIENDA-DEPORTIVA/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/RpositorioU/TIENDA-DEPORTIVA/TIENDA-DEPORTIVA/Views/Home/Privacy.cshtml]
+[D:/RepocitorioClonados/ProyectoTienda/TIENDA-DEPORTIVA/TIENDA-DEPORTIVA/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/RpositorioU/TIENDA-DEPORTIVA/TIENDA-DEPORTIVA/Views/Shared/Error.cshtml]
+[D:/RepocitorioClonados/ProyectoTienda/TIENDA-DEPORTIVA/TIENDA-DEPORTIVA/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/RpositorioU/TIENDA-DEPORTIVA/TIENDA-DEPORTIVA/Views/Shared/_ValidationScriptsPartial.cshtml]
+[D:/RepocitorioClonados/ProyectoTienda/TIENDA-DEPORTIVA/TIENDA-DEPORTIVA/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/RpositorioU/TIENDA-DEPORTIVA/TIENDA-DEPORTIVA/Views/_ViewImports.cshtml]
+[D:/RepocitorioClonados/ProyectoTienda/TIENDA-DEPORTIVA/TIENDA-DEPORTIVA/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/RpositorioU/TIENDA-DEPORTIVA/TIENDA-DEPORTIVA/Views/_ViewStart.cshtml]
+[D:/RepocitorioClonados/ProyectoTienda/TIENDA-DEPORTIVA/TIENDA-DEPORTIVA/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/RpositorioU/TIENDA-DEPORTIVA/TIENDA-DEPORTIVA/Views/Shared/_Layout.cshtml]
+[D:/RepocitorioClonados/ProyectoTienda/TIENDA-DEPORTIVA/TIENDA-DEPORTIVA/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-ni5bpyni92

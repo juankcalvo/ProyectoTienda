@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\RpositorioU\\TIENDA-DEPORTIVA\\TIENDA-DEPORTIVA\\TIENDA-DEPORTIVA.csproj": {}
+    "D:\\RepocitorioClonados\\ProyectoTienda\\TIENDA-DEPORTIVA\\TIENDA-DEPORTIVA\\TIENDA-DEPORTIVA.csproj": {}
   },
   "projects": {
-    "D:\\RpositorioU\\TIENDA-DEPORTIVA\\TIENDA-DEPORTIVA\\TIENDA-DEPORTIVA.csproj": {
+    "D:\\RepocitorioClonados\\ProyectoTienda\\TIENDA-DEPORTIVA\\TIENDA-DEPORTIVA\\TIENDA-DEPORTIVA.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\RpositorioU\\TIENDA-DEPORTIVA\\TIENDA-DEPORTIVA\\TIENDA-DEPORTIVA.csproj",
+        "projectUniqueName": "D:\\RepocitorioClonados\\ProyectoTienda\\TIENDA-DEPORTIVA\\TIENDA-DEPORTIVA\\TIENDA-DEPORTIVA.csproj",
         "projectName": "TIENDA-DEPORTIVA",
-        "projectPath": "D:\\RpositorioU\\TIENDA-DEPORTIVA\\TIENDA-DEPORTIVA\\TIENDA-DEPORTIVA.csproj",
+        "projectPath": "D:\\RepocitorioClonados\\ProyectoTienda\\TIENDA-DEPORTIVA\\TIENDA-DEPORTIVA\\TIENDA-DEPORTIVA.csproj",
         "packagesPath": "C:\\Users\\bito4\\.nuget\\packages\\",
-        "outputPath": "D:\\RpositorioU\\TIENDA-DEPORTIVA\\TIENDA-DEPORTIVA\\obj\\",
+        "outputPath": "D:\\RepocitorioClonados\\ProyectoTienda\\TIENDA-DEPORTIVA\\TIENDA-DEPORTIVA\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\bito4\\AppData\\Roaming\\NuGet\\NuGet.Config",
